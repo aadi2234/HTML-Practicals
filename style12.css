@@ -1,0 +1,33 @@
+.d1 {
+width:80%;
+padding:100px;
+height:70px;
+}
+.d2 {
+background-color:white;
+width:59%;
+padding:100px;
+margin-left:100px;
+}
+.d1d1 {
+width:200px;
+height:100px;
+text-align:left;
+float:left;
+margin:3px
+}
+.d1d2 {
+width:300px;
+height:100px;
+float:right;
+margin:3px
+}
+.sp {
+width:100px;
+height:28px;
+padding:20px;
+background-color:pink;
+text-align:center;
+float:right;
+margin:5px
+}
